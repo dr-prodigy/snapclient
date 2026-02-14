@@ -1,3 +1,7 @@
+#### MAURI
+venv/
+####
+
 build
 libopus
 managed_components
