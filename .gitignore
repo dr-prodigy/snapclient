@@ -1,5 +1,6 @@
 #### MAURI
 venv/
+sdkconfig_MY*
 ####
 
 build
